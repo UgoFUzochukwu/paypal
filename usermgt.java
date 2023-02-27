@@ -3,3 +3,4 @@ simeon
 dominion
 ayo
 obi
+manager
